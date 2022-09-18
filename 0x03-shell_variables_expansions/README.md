@@ -1,4 +1,4 @@
-0 script that creates an alias
+0 script that creates an alias"\n"
 1  script that prints hello user, where user is the current Linux user
 2script that adds /action to the PATH
 3 script that counts the number of directories in the PATH
